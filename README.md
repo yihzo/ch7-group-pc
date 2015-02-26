@@ -10,9 +10,11 @@ if this turns out to be like the previous group assignment i swear to god i will
 github will be here for issue reports and for code sharing
 
 requirements of each group:
--powerpoint
--visualization/animating
--code examples
--quia practice
--quia test
--evaluation of each team member
+
+
+powerpoint
+visualization/animating
+code examples
+quia practice
+quia test
+evaluation of each team member
