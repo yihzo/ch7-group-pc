@@ -15,3 +15,7 @@ requirements of each group:
 
 
 powerpoint, visualization/animating, code examples, quia practice, quia test, evaluation of each team member
+
+
+
+http://www.quia.com/quiz/5232881.html
